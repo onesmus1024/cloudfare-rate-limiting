@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qK7Zt8InAX7IbZtm5k8NiCZdma3efXMhTUbKXTK7NOA=",
+  "Source": "cloudfare-rate-limiting",
+  "BasePath": "_content/cloudfare-rate-limiting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

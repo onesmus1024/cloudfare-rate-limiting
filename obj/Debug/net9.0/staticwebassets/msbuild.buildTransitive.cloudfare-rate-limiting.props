@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\cloudfare-rate-limiting.props" />
+</Project>

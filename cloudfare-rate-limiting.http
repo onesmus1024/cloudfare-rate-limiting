@@ -1,0 +1,6 @@
+@cloudfare_rate_limiting_HostAddress = http://localhost:5213
+
+GET {{cloudfare_rate_limiting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

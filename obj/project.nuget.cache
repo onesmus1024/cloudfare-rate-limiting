@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iP+I8gGRNq0=",
+  "success": true,
+  "projectFilePath": "D:\\cloudfare-rate-limiting\\cloudfare-rate-limiting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Onesmus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Onesmus\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
