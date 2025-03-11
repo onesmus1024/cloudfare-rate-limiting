@@ -31,3 +31,4 @@ D:\cloudfare-rate-limiting\obj\Debug\net9.0\refint\cloudfare-rate-limiting.dll
 D:\cloudfare-rate-limiting\obj\Debug\net9.0\cloudfare-rate-limiting.pdb
 D:\cloudfare-rate-limiting\obj\Debug\net9.0\cloudfare-rate-limiting.genruntimeconfig.cache
 D:\cloudfare-rate-limiting\obj\Debug\net9.0\ref\cloudfare-rate-limiting.dll
+D:\cloudfare-rate-limiting\obj\Debug\net9.0\cloudfare-rate-limiting.sourcelink.json

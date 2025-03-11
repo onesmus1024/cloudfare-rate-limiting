@@ -13,6 +13,10 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 }
+// add root path to return a simple message
+
+app.MapGet("/", () => "Hello World!");
+
 
 app.UseHttpsRedirection();
 
